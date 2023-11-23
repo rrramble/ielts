@@ -10,8 +10,8 @@ Two subtypes of this type of essay:
 - With an opinion
 
 Main tips:
-- If a word is plural (i.g. `Discuss advantages...`) then answer with two example advantages.
-- If a word is single (i.g. `What is the main advantage...`) then answer with one example advantage.
+- If a word is plural (i.g. `Discuss advantages...`) then answer with 2 example advantages.
+- If a word is single (i.g. `What is the main advantage...`) then answer with 1 example advantage.
 
 ## Advantages and Disadvantages without opinion
 
