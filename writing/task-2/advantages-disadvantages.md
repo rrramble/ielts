@@ -23,9 +23,9 @@ There must not be an opinion!
 
 The First Paragraph:
 
-- Paraphrase
-- Write the main advantage
-- Write the main disadvantage
+- Paraphrase.
+- Write two advantages (if plural in the question, otherwise it must be one advantage).
+- Write the main disadvantages (if plural in the question, otherwise it must be one disadvantage).
 
 The Second paragraph (Main body paragraph #1):
 
