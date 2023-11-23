@@ -52,7 +52,7 @@ Paragraph #4 (Conclusion):
 
 There are several subtypes:
 
-- `More positives than negatives`
+- `More positives than negatives` or vice versa
 - TODO...
 
 ### Advantages and Disadvantages with an opinion: does it have more positives than negatives?
@@ -60,3 +60,19 @@ There are several subtypes:
 It can be formulated as `Does the advantages outweigh the disadvantages?` or `Does this situation have more advantages or disadvantages?`
 
 'More' or 'outweighs' does not mean you need to arithmetically count advantages over disadvantages, but which one is more meaningful, has more strength.
+
+#### Plan
+
+Paragraph #1:
+
+- Paraphrase. `Although,` an argument you disagree with (weakier), `I believe` an argument you agree with (stronger).
+
+Paragraph #2:
+
+- Write **one** you disagree with (weakier)
+
+Paragraph #3:
+
+- Write **one** you agree with (stronger).
+
+Paragraph #4 - Conclusion
