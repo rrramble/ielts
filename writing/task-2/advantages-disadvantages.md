@@ -37,8 +37,7 @@ Paragraph #2 (Main body paragraph #1):
 
 Paragraph #3 (Main body paragraph #2):
 
-- `However,...`
-- paraphrase and elaborate the first main disadvantage
+- `However,...` paraphrase and elaborate the first main disadvantage
 - Explain the first main disadvantage
 - State the second main disadvantage
 - Explain the second main disadvantage
