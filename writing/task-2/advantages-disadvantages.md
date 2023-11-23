@@ -9,7 +9,7 @@ Two subtypes of this type of essay:
 - Without opinion
 - With an opinion
 
-Main tips:
+## Main tips
 - If a word is plural (i.g. `Discuss advantages...`) then answer with 2 example advantages.
 - If a word is single (i.g. `What is the main advantage...`) then answer with 1 example advantage.
 
@@ -24,24 +24,24 @@ There must not be an opinion!
 Paragraph #1:
 
 - Paraphrase.
-- Write two advantages (if plural in the question, otherwise it must be one advantage).
-- Write the main disadvantages (if plural in the question, otherwise it must be one disadvantage).
+- Write one or two advantages [based on the question](#main-tips).
+- Write one or two disadvantages [based on the question](#main-tips).
 
 Paragraph #2 (Main body paragraph #1):
 
-- Paraphrase and elaborate the first main advantage
-- Explain the first main advantage
-- State the second main advantage
-- Explain the second main advantage
-- Example (evidence) of the second advantage
+- Paraphrase and elaborate the first main advantage.
+- Explain the first main advantage.
+- State the second main advantage.
+- Explain the second main advantage.
+- Example (evidence) of the second advantage.
 
 Paragraph #3 (Main body paragraph #2):
 
-- `However,...` paraphrase and elaborate the first main disadvantage
-- Explain the first main disadvantage
-- State the second main disadvantage
-- Explain the second main disadvantage
-- Example (evidence) of the second disadvantage
+- `However,...` paraphrase and elaborate the first main disadvantage.
+- Explain the first main disadvantage.
+- `Another disadvantage is ` state the second main disadvantage.
+- Explain the second main disadvantage.
+- Example (evidence) of the second disadvantage.
 
 Paragraph #4 (Conclusion):
 
