@@ -65,14 +65,24 @@ It can be formulated as `Does the advantages outweigh the disadvantages?` or `Do
 
 Paragraph #1:
 
-- Paraphrase. `Although,` an argument you disagree with (weakier), `I believe` an argument you agree with (stronger).
+- Paraphrase. `Although,` an argument you disagree with (weakier), `I believe` your position you agree with (stronger).
 
 Paragraph #2:
 
-- Write **one** you disagree with (weakier)
+- Main idea you disagree with (weakier, only one idea!).
+- Explanation.
+- Example.
+- `However, I believe` opinion for disagree.
 
 Paragraph #3:
 
-- Write **one** you agree with (stronger).
+- `The disadvantage is that` (or `The advantage is that`) main idea you agree with (stronger, only one idea!).
+- Explanation.
+- `For example,` example.
+- Opinion for agree with this argument.
 
 Paragraph #4 - Conclusion
+
+- `In conclusion, although` main disagreeing point,
+- main agreeing point.
+- Opinion (`For this reason, the negatives outnumber the positives` or vice versa).
