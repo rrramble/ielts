@@ -45,9 +45,8 @@ Paragraph #3 (Main body paragraph #2):
 
 Paragraph #4 (Conclusion):
 
-- `In conclusion, while ...`
-- Paraphrased summarized advantages
-- Paraphrased summarized disadvantages
+- `In conclusion, while ` paraphrased summarized advantages,
+- paraphrased summarized disadvantages.
 
 ## Advantages and Disadvantages with an opinion
 
