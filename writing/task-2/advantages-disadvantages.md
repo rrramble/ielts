@@ -21,13 +21,13 @@ There must not be an opinion!
 
 ### Plan
 
-The First Paragraph:
+Paragraph #1:
 
 - Paraphrase.
 - Write two advantages (if plural in the question, otherwise it must be one advantage).
 - Write the main disadvantages (if plural in the question, otherwise it must be one disadvantage).
 
-The Second paragraph (Main body paragraph #1):
+Paragraph #2 (Main body paragraph #1):
 
 - Paraphrase and elaborate the first main advantage
 - Explain the first main advantage
@@ -35,15 +35,16 @@ The Second paragraph (Main body paragraph #1):
 - Explain the second main advantage
 - Example (evidence) of the second advantage
 
-The Second paragraph (Main body paragraph #2):
+Paragraph #3 (Main body paragraph #2):
 
-- Paraphrase and elaborate the first main disadvantage
+- `However,...`
+- paraphrase and elaborate the first main disadvantage
 - Explain the first main disadvantage
 - State the second main disadvantage
 - Explain the second main disadvantage
 - Example (evidence) of the second disadvantage
 
-The third paragraph (Conclusion):
+Paragraph #4 (Conclusion):
 
 - `In conclusion, while ...`
 - Paraphrased summarized advantages
