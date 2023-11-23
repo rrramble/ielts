@@ -29,21 +29,25 @@ The First Paragraph:
 
 The Second paragraph (Main body paragraph #1):
 
-- Paraphrase the main advantage
-- Explain the main advantage
-- Example (evidence) of the main advantage
+- Paraphrase and elaborate the first main advantage
+- Explain the first main advantage
+- State the second main advantage
+- Explain the second main advantage
+- Example (evidence) of the second advantage
 
 The Second paragraph (Main body paragraph #2):
 
-- Paraphrase the main disadvantage
-- Explain the main disadvantage
-- Example (evidence) of the main disadvantage
+- Paraphrase and elaborate the first main disadvantage
+- Explain the first main disadvantage
+- State the second main disadvantage
+- Explain the second main disadvantage
+- Example (evidence) of the second disadvantage
 
 The third paragraph (Conclusion):
 
 - `In conclusion, while ...`
-- Write the summarized main advantage
-- Write the summarized main disadvantage
+- Paraphrased summarized advantages
+- Paraphrased summarized disadvantages
 
 ## Advantages and Disadvantages with an opinion
 
