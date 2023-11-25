@@ -23,7 +23,7 @@ It tests if you can go to the UK, Australia, the USA, or Canada and communicate 
 
 Your ideas must be clear, concise, and logical. It does not test your knowledge of fancy words, impressive ideas, or intelligence.
 
-## Criterion of 'Using less-common words'
+## Criterion of `Using less-common words`
 
 `Less-common` means `topic-specific` or more broadly — `widely used but in a topic-specific context`.
 
