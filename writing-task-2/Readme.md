@@ -21,7 +21,7 @@
 
 Find a synonym that covers **the same meaning** absolutely. It is even better to use the same word again than to use a synonym with an error or than use an improper synonym.
 
-Consider changing the ending or adding a suffix, like '-ing' or '-ed'. It also counts as using another word.
+Consider changing the ending or adding a suffix, like '-ing' or '-ed'. This also counts as a use of another word.
 
 
 ## Analyze the question to make a plan
