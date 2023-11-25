@@ -12,9 +12,9 @@
 
 1. `What is your opinion?`, `Do you agree or disagree?` — Opinion essay
 1. `Discuss both sides of an argument and give your own opinion` — Discussion essay
-1. `What are the negative impacts` (or `what are the causes of this`) `and how can this problem be solved?` — Problem and solutions essay
+1. `What are the problems (or negative impacts)`, `What are the causes of ...`, and `How can this be solved?` — Problems and solutions essay
 1. `What are the advantages and disadvantages ...?` — Advantages and Disadvantages essay
-1. `Do you think ...?` `What makes .... ?` — Double questions essay
+1. `Do you think ...?` `What makes ...?` — Double questions essay
 
 
 ## Changing words in paraphrasing
