@@ -25,7 +25,7 @@ Example: For the question `Write a letter to your neighbor asking them to attend
   - Do not put them everywhere, trying to achieve the 'Cohesive features' of the criteria.
   - `Furthermore` is used when adding a new point.
   - `However` is used only to contrast or negate.
-- Use referencing `it`, `this`, `they` etc. instead of a once-mentioned word.
+- Use referencing `it`, `this`, `they` etc., instead of a once-mentioned word.
 
 ## Complying with `Lexical resource` criteria
 
@@ -37,6 +37,7 @@ Checklist for accuracy:
 - Correct grammar
 - Correct meaning
 - Correct collocation
+- Do you want to show off using 'a high-level word'? Do not do it!
 
 Other hints related to Lexical resource:
 
