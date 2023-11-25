@@ -17,13 +17,6 @@
 1. `Do you think ...?` `What makes ...?` — Double questions essay
 
 
-## Changing words in paraphrasing
-
-Find a synonym that covers **the same meaning** absolutely. It is even better to use the same word again than to use a synonym with an error or than use an improper synonym.
-
-Consider changing the ending or adding a suffix, like '-ing' or '-ed'. This also counts as a use of another word.
-
-
 ## Analyze the question to make a plan
 
 1. What is the common topic?
