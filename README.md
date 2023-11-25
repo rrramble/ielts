@@ -42,6 +42,13 @@ Other hints related to Lexical resource:
 - Range of vocabulary: paraphrase meaning, synonymize words and use a range of topic-specific words.
 
 
+## Changing words in paraphrasing
+
+Find a synonym that covers **the same meaning** absolutely. It is even better to use the same word again than to use a synonym with an error or than use an improper synonym.
+
+Consider changing the ending or adding a suffix, like `-ing` or `-ed`. This also counts as the use of another word.
+
+
 ## Criterion of `Using less-common words`
 
 `Less-common` means `topic-specific` or more broadly — `widely used but in a topic-specific context`.
