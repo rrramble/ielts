@@ -29,4 +29,4 @@ Your ideas must be clear, concise, and logical. It does not test your knowledge 
 
 For example, for the topic of Photography, truly 'less-common' words are: `focus`, `exposure`, `lighting`, or `scene`. You see, they are not 'high-level'.
 
-Often this criterion is misunderstood as 'use rare words, that are high-level' like '[mellifluous](https://en.wiktionary.org/wiki/mellifluous)', '[cornucopia](https://en.wiktionary.org/wiki/cornucopia)', or '[plethora](https://www.oxfordlearnersdictionaries.com/definition/english/plethora?q=plethora)'. In reality, these words are actually 'common words' in the sense that they can be used in every topic.
+Often this criterion is misunderstood as 'use rare words, that are high-level' like [mellifluous](https://www.oxfordlearnersdictionaries.com/definition/english/mellifluous), [cornucopia](https://www.oxfordlearnersdictionaries.com/definition/english/cornucopia), or [plethora](https://www.oxfordlearnersdictionaries.com/definition/english/plethora). In reality, these words are actually 'common words' in the sense that they can be used in every topic.
