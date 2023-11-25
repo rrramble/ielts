@@ -11,4 +11,4 @@ Simply answer `fully agree (or disagree)` with **one** main reason without an ex
 - Introduction: Paraphrase. Clear postition on the 1st question. Clear position on the 2nd question.
 - Main body paragraph #1: Main point #1, supporting the 1st position.
 - Main body paragraph #2: Main point #2, supporting the 2nd position.
-- Conclusion: `In conclusion,` paraphrased summary of the 1st and 2nd main points, all showing your clear positions on the both questions.
+- Conclusion: `In conclusion,` paraphrased summary of the 1st and 2nd main points, each showing your clear positions on the both questions.
