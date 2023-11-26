@@ -1,15 +1,16 @@
-# Short notes about parts of the IELTS exam
+# Short notes about the IELTS exam
 
-These texts are still being built up.
+> These texts are still being built up.
 
-## 4 sections of the IELTS
 
-- Reading
-- Listening
-- Writing
-  - Task 1
-  - [Task 2](/writing-task-2/)
-- Speaking
+## Sections of the IELTS
+
+1. Writing
+   1. Writing Task 1
+   1. [Writing Task 2](/writing-task-2/)
+1. Speaking
+1. Reading
+1. Listening
 
 ## Criteria for the sections:
 
@@ -39,12 +40,15 @@ Checklist for accuracy:
 Other hints related to Lexical resource:
 
 - Appropriate collocations: not ~~`luxurious dinner`~~ but `delicios dinner`; not ~~`delicious hotel`~~ but `luxurious hotel`.
-- Range of vocabulary: paraphrase meaning, synonymize words and use a range of topic-specific words.
 
 
-## Changing words in paraphrasing
+## Paraphrase
 
-Find a synonym that covers **the same meaning** absolutely. It is even better to use the same word again than to use a synonym with an error or than use an improper synonym.
+This covers the criterion `Range of vocabulary`: paraphrase meaning, synonymize words, and use a range of topic-specific words.
+
+Find a synonym that covers **the same meaning** absolutely.
+
+However, it is better to use the same word again than to use a synonym with an error or to use an improper synonym.
 
 Consider changing the ending or adding a suffix, like `-ing` or `-ed`. This also counts as the use of another word.
 
