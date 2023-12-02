@@ -25,7 +25,7 @@ It tests if you can go to the UK, Australia, the USA, or Canada and communicate 
 Your ideas must be clear, concise, and logical. It does not test your knowledge of fancy words, impressive ideas, or intelligence.
 
 
-## Complying with `Lexical resource` criteria
+### Complying with `Lexical resource` criteria
 
 Accuracy first: do not use the below hints if you are not 100% sure of them.
 
@@ -42,7 +42,7 @@ Other hints related to Lexical resource:
 - Appropriate collocations: not ~~`luxurious dinner`~~ but `delicios dinner`; not ~~`delicious hotel`~~ but `luxurious hotel`.
 
 
-## Paraphrase
+### Paraphrase
 
 This covers the criterion `Range of vocabulary`: paraphrase meaning, synonymize words, and use a range of topic-specific words.
 
@@ -53,16 +53,16 @@ However, it is better to use the same word again than to use a synonym with an e
 Consider changing the ending or adding a suffix, like `-ing` or `-ed`. This also counts as the use of another word.
 
 
-## Criterion of `Using less-common words`
+### Criterion of `Using less-common words`
 
-`Less-common` means `topic-specific` or more broadly — `widely used but in a topic-specific context`.
+`Less-common` means `topic-specific` or, more broadly, — `widely used but in a topic-specific context`.
 
-For example, for the topic of Photography, truly 'less-common' words are: `focus`, `exposure`, `lighting`, or `scene`. You see, they are not 'high-level'.
+For example, for the topic of Photography, really 'less-common' words are: `focus`, `exposure`, `lighting`, or `scene`. You see, they are not 'high-level'.
 
-Often this criterion is misunderstood as 'use rare words, that are high-level' like [mellifluous](https://www.oxfordlearnersdictionaries.com/definition/english/mellifluous), [cornucopia](https://www.oxfordlearnersdictionaries.com/definition/english/cornucopia), or [plethora](https://www.oxfordlearnersdictionaries.com/definition/english/plethora). In reality, these words are actually 'common words' in the sense that they can be used in every topic.
+Often this criterion is misunderstood as 'use rare words that are high-level' like [mellifluous](https://www.oxfordlearnersdictionaries.com/definition/english/mellifluous), [cornucopia](https://www.oxfordlearnersdictionaries.com/definition/english/cornucopia), or [plethora](https://www.oxfordlearnersdictionaries.com/definition/english/plethora). In reality, these words are actually 'common words' in the sense that they can be used for every topic.
 
 
-## Complying with `Coherence and Cohesion` criteria
+### Complying with `Coherence and Cohesion` criteria
 
 - Use linking words appropriately:
   - Do not put them everywhere, trying to achieve the 'Cohesive features' of the criteria.
