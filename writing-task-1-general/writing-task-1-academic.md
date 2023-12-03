@@ -8,10 +8,10 @@
 
 
 ## Structure
-- Introduction
-- Overview (describe data in general)
-- Details 1
-- Details 2
+1. Introduction (paraphrase the task)
+2. Overview (describe the task in general without specific data)
+3. Details 1
+4. Details 2
 
 
 ## Planning
