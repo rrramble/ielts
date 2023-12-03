@@ -12,12 +12,14 @@
 1. Reading
 1. Listening
 
+
 ## Criteria for the sections:
 
 - [Band descriptors for the Speaking section](https://takeielts.britishcouncil.org/sites/default/files/ielts_speaking_band_descriptors.pdf)
 - [Band descriptors for the Writing section](http://takeielts.britishcouncil.org/sites/default/files/ielts_writing_band_descriptors.pdf)
 
-## Main tips
+
+## Main tips for the Speaking and Writing parts
 
 ### IELTS is a communication test, not a knowledge test
 It tests if you can go to the UK, Australia, the USA, or Canada and communicate with people clearly and meaningfully.
