@@ -6,7 +6,7 @@
 ## Sections of the IELTS
 
 1. Writing
-   1. Writing Task 1
+   1. [Writing Task 1](/writing-task-1-general/)
    1. [Writing Task 2](/writing-task-2/)
 1. Speaking
 1. Reading
