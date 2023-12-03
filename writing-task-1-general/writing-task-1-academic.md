@@ -3,27 +3,26 @@
 
 ## Main tips
 
-- **NO** personal opininon, only data
+- **NO** personal opinion, only data
+- Compare only if relevant
 
 
-## Sections of the text
+## Structure
 - Introduction
-- Describe data in general
-- 
+- Overview (describe data in general)
+- Details 1
+- Details 2
 
 
 ## Planning
 > It saves time, plan for 5 minutes at least.
 
 ### Questions to ask
-- Identify what key feature data represents: title, columns, rows, what is X- and Y-axis, changes in time
+- Identify what key feature data represents: title, columns, rows, what X- and Y-axis are, is changing over time
 - Is there progression over time?
-- Does it have projection into the future?
+- Does it have a projection into the future?
+- What tenses to use (consider the past, present, and future)
 
-## Describe first paragraph
+## Describe `Introduction`
 
-
-
-
-## Compare and contrast data
-Take general trend: compart data in the beginning with the end
+Take general trend: compare data in the beginning with the end
