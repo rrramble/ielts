@@ -8,12 +8,29 @@
 - Main body paragraph covering the 1st bullet point.
 - Main body paragraph covering the 2nd bullet point.
 - Main body paragraph covering the 3rd bullet point.
-- A reverence.
+- A sign-off.
 
 
 ## Simple rule of choosing a tone:
 > This helps achieve the 'Task achievement' criteria.
 
-Use a formal tone unless you see the word `friend` in the question.
+Use a formal tone unless you write to a **friend**.
 
-Example: For the question `Write a letter to your neighbor asking them to attend your party.` do not assume they are friendly to you, but use a **formal** tone.
+Example: For the question `Write a letter to your neighbor asking them to attend your party.` do not assume they are friends with you, rather use a **formal** tone.
+
+
+## A sign-off
+
+For formal letters:
+
+- `Kind regards,`
+
+Some people do not like this, then use the rule:
+
+- `Yours faithfully,` if you do not know the person (for example, if started with `Dear Sir/Madam`)
+- `Yours sincerely,` if you know the person's name
+
+For informal choose one of the following:
+
+- `Best regards,`
+- `Keep in touch,`
