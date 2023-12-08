@@ -17,7 +17,7 @@
 
 ### Questions to ask
 - Identify what key feature data represents: title, columns, rows, what X- and Y-axis are, is changing over time
-- What tenses to use? Consider the past, the present and is there a future projection?
+- What tenses to use? Consider the past, is there the present, and is there a future projection?
 
 
 ## Describe `Introduction`
