@@ -29,4 +29,9 @@ Paraphrase the task question.
 
 Pick 2-4 features and specify general trends.
 
-This means: describe what is at the beginning and what is at the end; do not describe intermediate data.
+This means:
+
+- Describe what is at the beginning and what is at the end; do not describe intermediate specifics.
+- Do not mention data.
+- Use trend behavior: `increases`, `decreases`, `goes up`, `goes down`, `stays the same`, `fluctuates`...
+- Use behavior modifiers: `slowly`, `dramatically`, `drastically`, `relatively`, `just over`, `just under`...
