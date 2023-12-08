@@ -5,24 +5,28 @@
 
 - **NO** personal opinion, only data
 - Compare only if relevant
+- Make a plan: it saves time!
 
 
-## Structure
+## Structure of a plan
 1. Introduction (paraphrase the task)
-2. Overview (describe the task in general without specific data)
+2. Overview (general trends)
 3. Details 1
 4. Details 2
 
 
-## Planning
-> It saves time, plan for 5 minutes at least.
-
 ### Questions to ask
 - Identify what key feature data represents: title, columns, rows, what X- and Y-axis are, is changing over time
-- Is there progression over time?
-- Does it have a projection into the future?
-- What tenses to use (consider the past, present, and future)
+- What tenses to use? Consider the past, the present and is there a future projection?
+
 
 ## Describe `Introduction`
 
-Take general trend: compare data in the beginning with the end
+Paraphrase the task question.
+
+
+## Describe `Overview`
+
+Pick 2-4 features and specify general trends.
+
+This means: describe what is at the beginning and what is at the end; do not describe intermediate data.
