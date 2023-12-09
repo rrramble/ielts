@@ -4,7 +4,7 @@
 
 1. [Opinion (Agree or Disagree)](./agree-or-disagree.md)
 1. [Discuss both views](./discuss-both-views.md)
-1. Problems and Solutions
+1. [Problems and Solutions](./problems-and-solutions.md)
 1. [Advantages and Disadvantages](./advantages-disadvantages.md)
 1. [Double questions](./double-questions.md)
 
