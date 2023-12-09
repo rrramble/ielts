@@ -14,8 +14,9 @@ just pick one that you can write easily about.
 ## Structure
 
 1. Introduction: Paraphrase.
-Mention a view you dislike and state your dislike clearly,
-mention a view you support and state your support clearly.
+`Some would argue that ...` mention a view you dislike
+`, while others say that ...` mention a view you support.
+`While...` first view `, I believe` the second view that you support.
 1. Main body paragraph #1: discuss a view that you do not support.
 Explain the view. Give an example.
 State that you do not support this view and why.
