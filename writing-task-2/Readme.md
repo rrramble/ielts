@@ -3,7 +3,7 @@
 ## Types of essay
 
 1. Opinion
-1. Discussion
+1. [Discuss both views](./discuss-both-views.md)
 1. Problems and Solutions
 1. [Advantages and Disadvantages](./advantages-disadvantages.md)
 1. [Double questions](./double-questions.md)
