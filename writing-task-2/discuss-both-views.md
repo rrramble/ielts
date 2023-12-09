@@ -16,7 +16,7 @@ just pick one that you can write easily about.
 1. Introduction: Paraphrase.
 `Some would argue that ...` mention a view you dislike
 `, while others say that ...` mention a view you support.
-`While...` first view `, I believe that it is better` the second view.
+`While...` the first view and why some find it good`, I believe that it is better` the second view.
 1. Main body paragraph #1: discuss a view that you do not support.
 Explain the view. Give an example.
 State that you do not support this view and why.
