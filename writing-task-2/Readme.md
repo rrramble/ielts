@@ -20,7 +20,7 @@
 ## Analyze the question to make a plan
 
 1. What is the common topic?
-1. Get keywords (clarifying the specific question)
-1. Understand the question(s) (read thoroughly every word)
+1. Get keywords — clarifying the specific question)
+1. Understand the question(s) — read thoroughly every word
 1. Ideas to answer the question: 1 for any of both views or 2 for the direct question
 1. Build a list of topic-specific vocabulary (based on the common topic)
