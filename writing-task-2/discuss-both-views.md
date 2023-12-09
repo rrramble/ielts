@@ -16,13 +16,13 @@ just pick one that you can write easily about.
 1. Introduction: Paraphrase.
 `Some would argue that ...` mention a view you dislike
 `, while others say that ...` mention a view you support.
-`While...` the first view and why some find it good`, I believe that it is better` the second view.
-1. Main body paragraph #1: discuss a view that you do not support.
-Explain the view. Give an example.
-State that you do not support this view and why.
-1. Main body paragraph #2: discuss a view that you support.
-Explain the view. Give an example.
-State that you support this view and why.
-1. Conclusion: `In conclusion,`,
+`While...` the first view and why some find it good `, I believe that it is better` the second view.
+1. Main body paragraph #1 (Negative support): `On the one hand,` write a view that you do not support.
+Explain the view. `For example,` give an example.
+`However, I believe that` write why you do not support this view.
+1. Main body paragraph #2 (Positive support): `On the other hand,` write a view that you support.
+Explain the view. `For example,` write an example.
+`I believe` write why you support this view.
+1. Conclusion: `In conclusion, although`
 rephrase the 1st view and state your clear dislike,
 rephrase the 2nd view and your clear support. 
