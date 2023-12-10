@@ -20,12 +20,12 @@
 - What tenses to use? Consider the past, is there the present, and is there a future projection?
 
 
-## Describe `Introduction`
+## `Introduction` paragraph
 
 Paraphrase the task question.
 
 
-## Describe `Overview`
+## `Overview` paragraph
 
 Pick 2-4 features and specify general trends.
 
