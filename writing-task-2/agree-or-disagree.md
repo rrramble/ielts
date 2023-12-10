@@ -11,4 +11,4 @@
 ## Main tips:
 
 - For `To what extent ...` simply use `I strongly (or totally or completely) agree` (or `strongly (or totally or completely) disagree`).
-- Do not use `some people agree (or think)` because it must be YOUR opinion, not other's opinion.
+- Do not use `some people agree (think)` because it must be YOUR opinion, not other's opinion.
