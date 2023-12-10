@@ -1,6 +1,9 @@
 # Short notes about the IELTS exam
 
 > These texts are still being built up.
+> 
+> The notes are summarized extraction from the [IELTS Academy Youtube channel](https://www.youtube.com/@Ieltsadvantage).
+> Here are links to [their selected youtube videos](/video-links.md) I have found useful for me.
 
 
 ## Sections of the IELTS
