@@ -9,10 +9,10 @@
 
 
 ## Structure of a plan
-1. Introduction (paraphrase the task)
-2. Overview (general trends)
-3. Details 1
-4. Details 2
+1. Introduction paragraph (paraphrase the task)
+2. Overview paragraph (general trends)
+3. Details paragraph #1
+4. Details paragraph #2
 
 
 ### Questions to ask
@@ -33,5 +33,5 @@ This means:
 
 - Describe what is at the beginning and what is at the end; do not describe intermediate specifics.
 - Do not mention data.
-- Use trend behavior: `increases`, `decreases`, `goes up`, `goes down`, `stays the same`, `fluctuates`...
-- Use behavior modifiers: `slowly`, `dramatically`, `drastically`, `relatively`, `just over`, `just under`...
+- Use trend behavior: `increase`, `decrease`, `go up`, `go down`, `stay the same`, `fall`, `fluctuate`, `decline`, `reache`, `recede` ...
+- Use behavior modifiers: `about`, `around`, `slightly`, `slowly`, `dramatically`, `relatively`, `just over`, `just under`, `drastically`, `steadily` ...
