@@ -2,8 +2,8 @@
 
 > These texts are still being built up.
 > 
-> The notes are summarized extraction from the [IELTS Academy Youtube channel](https://www.youtube.com/@Ieltsadvantage).
-> Here are links to [their selected youtube videos](/video-links.md) I have found useful for me.
+> The notes are summarized extraction, the best videos I have found are on [IELTS Academy Youtube channel](https://www.youtube.com/@Ieltsadvantage).
+> Here are links to [their selected youtube videos](/video-links.md) I have found most useful.
 
 
 ## Sections of the IELTS
