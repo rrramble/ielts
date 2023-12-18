@@ -2,8 +2,8 @@
 
 > These texts are still being built up.
 > 
-> The notes are summarized extraction, the best videos I have found are on [IELTS Academy Youtube channel](https://www.youtube.com/@Ieltsadvantage).
-> Here are links to [their selected youtube videos](/video-links.md) I have found most useful.
+> The notes are summarized extraction from the best videos I have found on [IELTS Academy Youtube channel](https://www.youtube.com/@Ieltsadvantage).
+> Here are links to [their selected youtube videos](/video-links.md) I find most useful.
 
 
 ## Sections of the IELTS
@@ -74,3 +74,8 @@ Often this criterion is misunderstood as 'use rare words that are high-level' li
   - `Furthermore` is used when adding a new point.
   - `However` is used only to contrast or negate.
 - Use referencing `it`, `this`, `they` etc., instead of a once-mentioned word.
+
+
+### Vocabulary
+
+[Check collocations on Just One Word](HTTP://just-the-word)
