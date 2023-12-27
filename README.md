@@ -4,7 +4,7 @@
 > 
 > The notes are summarized extraction from the best source I have found — [IELTS Academy](https://www.youtube.com/@Ieltsadvantage).
 > Here are links to [their selected youtube videos](/video-links.md) I find most useful.
-> They offer both free YouTube videos as well as their [paid course](https://www.ieltsadvantage.com/vip-academy/).
+> They also offer [paid courses](https://www.ieltsadvantage.com/vip-academy/).
 
 
 ## Sections of the IELTS
@@ -42,7 +42,7 @@ Checklist for accuracy:
 - Correct grammar
 - Correct meaning
 - Correct collocation
-- Do you want to show off using 'a high-level word'? Do not do it!
+- Do not show off using 'a high-level word'.
 
 Other hints related to Lexical resource:
 
