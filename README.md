@@ -81,3 +81,9 @@ Often this criterion is misunderstood as 'use rare words that are high-level' li
 ### Vocabulary
 
 [Check collocations on Just One Word](HTTP://just-the-word)
+
+
+## Official information
+
+You must know the difference between real and made-up questions. Here is a list of 
+[authoritative sources (Cambridge, British Council, IDP)](./authoritative-sources.md)
