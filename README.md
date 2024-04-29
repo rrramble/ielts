@@ -80,7 +80,8 @@ Often this criterion is misunderstood as 'use rare words that are high-level' li
 
 ### Vocabulary
 
-[Check collocations on Just One Word](HTTP://www.just-the-word.com/)
+- [Check collocations on Just The Word](HTTP://www.just-the-word.com/)
+- [Thesaurus from Collins Dictionary](https://www.collinsdictionary.com/dictionary/english-thesaurus/)
 
 
 ## Official information
