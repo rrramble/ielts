@@ -80,7 +80,7 @@ Often this criterion is misunderstood as 'use rare words that are high-level' li
 
 ### Vocabulary
 
-[Check collocations on Just One Word](HTTP://just-the-word)
+[Check collocations on Just One Word](HTTP://www.just-the-word.com/)
 
 
 ## Official information
