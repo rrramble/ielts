@@ -10,7 +10,7 @@
 
 ## Identifying type of the essay
 
-1. `What is your opinion?`, `Do you agree or disagree?` — Opinion essay
+1. `What is your opinion?`, `Do you agree or disagree?`, `Is this a positive or negative development?` — Opinion essay
 1. `Discuss both sides of an argument and give your own opinion` — Discussion essay
 1. `What are the problems (or negative impacts)`, `What are the causes of ...`, and `How can this be solved?` — Problems and solutions essay
 1. `What are the advantages and disadvantages ...?` — Advantages and Disadvantages essay
