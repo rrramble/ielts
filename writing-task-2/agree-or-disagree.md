@@ -22,7 +22,7 @@
 
 ## Main tips:
 
-- For quesiton type `To **what extent*** ...` use `I **strongly** (or **totally** or **completely**) (dis)agree`.
+- For quesiton type `To what extent ...` use `I strongly (or totally or completely) (dis)agree`.
 - Do not use `some people agree (think)` for your opinion because it must be YOUR opinion, not other's opinion.
 
 
