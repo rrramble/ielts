@@ -20,11 +20,13 @@ just pick one that you can write easily about.
   - `While...` the first view and why some find it good `, I believe that it is better` the second view.
 2. Main body paragraph #1 (Negative support):
   - `On the one hand` write a view that you do not support.
-  - Explain the view. `For example,` give an example.
+  - Explain the view.
+  - `For example,` give an example.
   - `However, I believe that` write why you do not support this view.
 3. Main body paragraph #2 (Positive support):
   - `On the other hand, it is thought that` write a view that you support.
-  - Explain the view. `For example,` write an example.
+  - Explain the view.
+  - `For example,` write an example.
   - `I believe (this school of thought is preferable because)` write why you support this view.
 4. Conclusion: `In conclusion, although`
   - rephrase the 1st view and state your clear dislike,
