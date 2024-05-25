@@ -13,7 +13,7 @@ The same for `How can this issue be solved` — for this write only 1 solution.
 
 1. Introduction
   - Paraphrase the question
-  - Briefly state what problem and solution are (or cause and solution)
+  - Briefly state what problem and solution are (or cause and solution) — `The primary cause of this phenomenon is the ... and the most viable solution is to ...`
 2. Main body paragraph #1 (about a problem)
   - State a problem
   - Explain
