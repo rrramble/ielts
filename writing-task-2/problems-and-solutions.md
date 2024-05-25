@@ -16,15 +16,15 @@ The same for `How can this issue be solved` — for this write only 1 solution.
   - Briefly state what problem and solution are (or cause and solution) — `The primary cause of this phenomenon is the ... and the most viable solution is to ...`
 2. Main body paragraph #1 (about a problem)
   - State a problem
-  - Explain
-  - Results
-  - Example
+  - Explain `That is to say that ...`
+  - Results `This results in a huge ...`
+  - Example `For example, ...`
 3. Main body paragraph #2 (about a solution)
-  - State solution
+  - State solution `A long term solution for this predicament is to ...`
   - Explain
-  - Example
+  - Example `For example, ...`
 4. Conclusion:
-  - Summarize main points
+  - Summarize main points `In conclusion, THE_PROBLEM because THE_CAUSE and THE_SOLUTION is the only answer.`
 
 
 ## A structure for One Plural and One Singular
